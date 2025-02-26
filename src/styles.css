@@ -1,0 +1,34 @@
+.MuiDataGrid-menu {
+  z-index: 1000002;
+}
+.tox-tinymce-aux {
+  z-index: 1000002 !important;
+}
+.MuiDataGrid-panel {
+  z-index: 1000002;
+  /* inset: -13% auto auto 25% !important; */
+}
+.MuiAutocomplete-popper {
+  z-index: 1000002;
+}
+.MuiPickersPopper-root {
+  z-index: 1000002;
+}
+#country-menu {
+  z-index: 1000002 !important;
+  max-height: 250px;
+}
+.css-1ozefeb {
+  z-index: 1000002 !important;
+}
+.MuiDrawer-root {
+  z-index: 1000002 !important;
+}
+.MuiTooltip-popper {
+  z-index: 1000002 !important;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
